@@ -1,0 +1,8 @@
+{
+  "name": "line-webhook-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "@line/bot-sdk": "^7.5.2",
+    "google-spreadsheet": "^4.1.2"
+  }
+}
